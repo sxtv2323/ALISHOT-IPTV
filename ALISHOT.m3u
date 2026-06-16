@@ -1,4 +1,6 @@
 #EXTM3U
 
-#EXTGRP:BEIN MAX tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/IMG_20260611_194053_976.jpg" alishot-cat-id="p13ho6pkv" alishot-cat-order="1781588003689" alishot-trending="false"
+#EXTGRP:BEIN MAX tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/IMG_20260611_194053_976.jpg" alishot-cat-id="p13ho6pkv" alishot-cat-order="1781588003689"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/IMG_20260611_194053_976.jpg" alishot-ch-order="1781607638721",BEIN MAX2
+http://84.17.50.102/fox/index.m3u8
 
