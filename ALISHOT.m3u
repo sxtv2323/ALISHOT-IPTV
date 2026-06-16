@@ -40,3 +40,5 @@ http://palestine.vibertv.cyou/post5/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRTfZMpJav4IWSpnVbNZShwJHE5KWh8Itr9IfNTtc3xA&s=10" alishot-ch-order="1781620644060",الوان 1
 https://stream.kurdtv.live/alwan-sport/index.m3u8
 
+#EXTGRP:لعبة العراق tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZglH3r4ND7cSDNK3riE1cjKW2jUrzmKHlU1ATK8Tc2YtV-ZayKieTMFB-&s=10" alishot-cat-id="6tytrc6mk" alishot-cat-order="50"
+
