@@ -19,7 +19,7 @@ http://palestine.vibertv.cyou/bein-mx-SD-2/index.m3u8
 http://palestine.vibertv.cyou/TOD1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa3HnnCc7OB_tYipIMBVeNHjrLoErBVO5WG26O48hi7g&s=10" alishot-ch-order="1781613728166",TOD 2
 http://palestine.vibertv.cyou/TOD2/index.m3u8
-#EXTINF:-1 alishot-ch-order="1781613746105",TOD 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa3HnnCc7OB_tYipIMBVeNHjrLoErBVO5WG26O48hi7g&s=10" alishot-ch-order="1781613746105",TOD 3
 http://palestine.vibertv.cyou/TOD3/index.m3u8
 
 #EXTGRP:POST SPORT alishot-cat-id="3jo10eq6w" alishot-cat-order="30"
