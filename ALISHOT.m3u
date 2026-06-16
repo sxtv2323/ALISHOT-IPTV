@@ -1,4 +1,6 @@
 #EXTM3U
 
 #EXTGRP:BEIN MAX tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt0dQjcKzKfs9HnSoDiXwSF2m5HENnBv_mstIwWcklYQ&s=10" alishot-cat-id="u1qefmd2u" alishot-cat-order="10"
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt0dQjcKzKfs9HnSoDiXwSF2m5HENnBv_mstIwWcklYQ&s=10" alishot-ch-order="1781608397941",BEIN MAX 1
+http://het139c.ycn-redirect.com/live/610303030/index.m3u8?t=HYj3F_q7Yz5t3yDeEvEuVA&e=1781619495
 
