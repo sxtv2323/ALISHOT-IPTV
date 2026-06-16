@@ -35,4 +35,6 @@ http://palestine.vibertv.cyou/post4/index.m3u8
 http://palestine.vibertv.cyou/post5/index.m3u8
 
 #EXTGRP:الوان alishot-cat-id="24l0ssqjz" alishot-cat-order="40"
+#EXTINF:-1 alishot-ch-order="1781620644060",الوان 1
+https://stream.kurdtv.live/alwan-sport/index.m3u8
 
