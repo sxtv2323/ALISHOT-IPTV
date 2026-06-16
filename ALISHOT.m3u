@@ -48,3 +48,5 @@ https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/m80yfEBonv7MMK
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZglH3r4ND7cSDNK3riE1cjKW2jUrzmKHlU1ATK8Tc2YtV-ZayKieTMFB-&s=10" alishot-ch-order="1781642905515",3
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/t46AXzMKIis5bblIs4FGhYN1gzIVu6-7iNZFOukmKUCZ56Q-9KXYo1WvF8idS27kK9q1LJN7p2-5J1_Rl_HgcA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-private/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/st_dynamic_highlatency.m3u8?type=live
 
+#EXTGRP:البث الخاص alishot-cat-id="i64zv3a4v" alishot-cat-order="60"
+
