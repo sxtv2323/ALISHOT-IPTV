@@ -1,8 +1,6 @@
 #EXTM3U
 
 #EXTGRP:BEIN MAX tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt0dQjcKzKfs9HnSoDiXwSF2m5HENnBv_mstIwWcklYQ&s=10" alishot-cat-id="u1qefmd2u" alishot-cat-order="10"
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt0dQjcKzKfs9HnSoDiXwSF2m5HENnBv_mstIwWcklYQ&s=10" alishot-ch-order="1781608397941",BEIN MAX 1
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/56sU3S4DZbDbJRDKvNmml25CfL2Ve6Iod_7tSY7yRItmbOfNvgzFYXtZ6fD49oFOC8m7V3oC8m3FSYvqofTnHg/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-private/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/st_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt0dQjcKzKfs9HnSoDiXwSF2m5HENnBv_mstIwWcklYQ&s=10" alishot-ch-order="1781608939850",BEIN MAX 2
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/ILEXSQTxuQZI8BHn_MI87n0OhgD7I4yN3-usAuZjUKX_jH7ompNvWWWSD0YNUW5LrJ9FltBN2GYqvZRz1nWbXw/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-private/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/st_dynamic_highlatency.m3u8?type=live
 
