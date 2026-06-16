@@ -11,4 +11,6 @@ http://palestine.vibertv.cyou/bein-mx-HD-1/index.m3u8
 http://palestine.vibertv.cyou/bein-mx-HD-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt0dQjcKzKfs9HnSoDiXwSF2m5HENnBv_mstIwWcklYQ&s=10" alishot-ch-order="1781613639026",MAX1 SD
 http://palestine.vibertv.cyou/bein-mx-SD-1/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt0dQjcKzKfs9HnSoDiXwSF2m5HENnBv_mstIwWcklYQ&s=10" alishot-ch-order="1781613660067",MAX2 SD
+http://palestine.vibertv.cyou/bein-mx-SD-2/index.m3u8
 
