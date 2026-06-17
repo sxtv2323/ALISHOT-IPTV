@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTGRP:BEIN MAX tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt0dQjcKzKfs9HnSoDiXwSF2m5HENnBv_mstIwWcklYQ&s=10" alishot-cat-id="u1qefmd2u" alishot-cat-order="10"
+#EXTGRP:BEIN MAX tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt0dQjcKzKfs9HnSoDiXwSF2m5HENnBv_mstIwWcklYQ&s=10" alishot-cat-id="u1qefmd2u" alishot-cat-order="0"
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt0dQjcKzKfs9HnSoDiXwSF2m5HENnBv_mstIwWcklYQ&s=10" alishot-ch-order="1781613531647",MAX1 4K
 http://palestine.vibertv.cyou/bein-mx-HD-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt0dQjcKzKfs9HnSoDiXwSF2m5HENnBv_mstIwWcklYQ&s=10" alishot-ch-order="1781613558938",MAX2 4K
@@ -16,15 +16,11 @@ http://palestine.vibertv.cyou/bein-mx-SD-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt0dQjcKzKfs9HnSoDiXwSF2m5HENnBv_mstIwWcklYQ&s=10" alishot-ch-order="1781638008235",MAX3
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/NwhlonvK2Z5geeyfmo6FaUhJu2aQobwruLtRhqpfLrOM1JUB_eCvrijQ-GVfA7SC_b_01QwMrRjTkrksJLScJA/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live&_HLS_skip=YES
 
-#EXTGRP:TOD tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa3HnnCc7OB_tYipIMBVeNHjrLoErBVO5WG26O48hi7g&s=10" alishot-cat-id="nss0hyhu6" alishot-cat-order="20"
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa3HnnCc7OB_tYipIMBVeNHjrLoErBVO5WG26O48hi7g&s=10" alishot-ch-order="1781613713743",TOD 1
-http://palestine.vibertv.cyou/TOD1/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa3HnnCc7OB_tYipIMBVeNHjrLoErBVO5WG26O48hi7g&s=10" alishot-ch-order="1781613728166",TOD 2
-http://palestine.vibertv.cyou/TOD2/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa3HnnCc7OB_tYipIMBVeNHjrLoErBVO5WG26O48hi7g&s=10" alishot-ch-order="1781613746105",TOD 3
-http://palestine.vibertv.cyou/TOD3/index.m3u8
+#EXTGRP:الوان tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRTfZMpJav4IWSpnVbNZShwJHE5KWh8Itr9IfNTtc3xA&s=10" alishot-cat-id="24l0ssqjz" alishot-cat-order="10"
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRTfZMpJav4IWSpnVbNZShwJHE5KWh8Itr9IfNTtc3xA&s=10" alishot-ch-order="1781620644060",الوان 1
+https://stream.kurdtv.live/alwan-sport/index.m3u8
 
-#EXTGRP:POST SPORT tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyGbkXvECTq5v6aAJ6IZtEoHvSC512da5_9o99gLbViA&s=10" alishot-cat-id="3jo10eq6w" alishot-cat-order="30"
+#EXTGRP:POST SPORT tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyGbkXvECTq5v6aAJ6IZtEoHvSC512da5_9o99gLbViA&s=10" alishot-cat-id="3jo10eq6w" alishot-cat-order="20"
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyGbkXvECTq5v6aAJ6IZtEoHvSC512da5_9o99gLbViA&s=10" alishot-ch-order="1781613796011",P 1
 http://palestine.vibertv.cyou/post1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyGbkXvECTq5v6aAJ6IZtEoHvSC512da5_9o99gLbViA&s=10" alishot-ch-order="1781613807637",P2
@@ -36,11 +32,15 @@ http://palestine.vibertv.cyou/post4/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyGbkXvECTq5v6aAJ6IZtEoHvSC512da5_9o99gLbViA&s=10" alishot-ch-order="1781613952865",P5
 http://palestine.vibertv.cyou/post5/index.m3u8
 
-#EXTGRP:الوان tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRTfZMpJav4IWSpnVbNZShwJHE5KWh8Itr9IfNTtc3xA&s=10" alishot-cat-id="24l0ssqjz" alishot-cat-order="40"
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRTfZMpJav4IWSpnVbNZShwJHE5KWh8Itr9IfNTtc3xA&s=10" alishot-ch-order="1781620644060",الوان 1
-https://stream.kurdtv.live/alwan-sport/index.m3u8
+#EXTGRP:TOD tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa3HnnCc7OB_tYipIMBVeNHjrLoErBVO5WG26O48hi7g&s=10" alishot-cat-id="nss0hyhu6" alishot-cat-order="30"
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa3HnnCc7OB_tYipIMBVeNHjrLoErBVO5WG26O48hi7g&s=10" alishot-ch-order="1781613713743",TOD 1
+http://palestine.vibertv.cyou/TOD1/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa3HnnCc7OB_tYipIMBVeNHjrLoErBVO5WG26O48hi7g&s=10" alishot-ch-order="1781613728166",TOD 2
+http://palestine.vibertv.cyou/TOD2/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa3HnnCc7OB_tYipIMBVeNHjrLoErBVO5WG26O48hi7g&s=10" alishot-ch-order="1781613746105",TOD 3
+http://palestine.vibertv.cyou/TOD3/index.m3u8
 
-#EXTGRP:لعبة العراق tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZglH3r4ND7cSDNK3riE1cjKW2jUrzmKHlU1ATK8Tc2YtV-ZayKieTMFB-&s=10" alishot-cat-id="6tytrc6mk" alishot-cat-order="50"
+#EXTGRP:لعبة العراق tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZglH3r4ND7cSDNK3riE1cjKW2jUrzmKHlU1ATK8Tc2YtV-ZayKieTMFB-&s=10" alishot-cat-id="6tytrc6mk" alishot-cat-order="40"
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZglH3r4ND7cSDNK3riE1cjKW2jUrzmKHlU1ATK8Tc2YtV-ZayKieTMFB-&s=10" alishot-ch-order="1781642766113",1
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/b2QzQllNoEJYNPXjYAMy0YcBiezCAGF0NbGp0F2xLfViOcJlqn4OJHm-IXm_QVq3uq-UTCUdV4YGeteYeC0skw/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-private/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/st_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZglH3r4ND7cSDNK3riE1cjKW2jUrzmKHlU1ATK8Tc2YtV-ZayKieTMFB-&s=10" alishot-ch-order="1781642834263",2
