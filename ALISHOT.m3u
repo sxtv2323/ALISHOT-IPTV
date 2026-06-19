@@ -88,33 +88,3 @@ http://palestine.vibertv.cyou/post5/index.m3u8
 
 #EXTGRP:البث الخاص alishot-cat-id="dl3fesmz7" alishot-cat-order="40"
 
-#EXTGRP:TOD bein sport hd/sd tvg-logo="http://103.176.90.118/picons/logos/TOD-LOGO.png" alishot-cat-id="ac362meor" alishot-cat-order="50"
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TOD-LOGO.png" alishot-ch-order="1781907654309",TOD1_HD EVENT
-http://luna4k.eu:80/live/useryanisb/vsat2026/61744.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TOD-LOGO.png" alishot-ch-order="1781907654309",TOD2_HD EVENT
-http://luna4k.eu:80/live/useryanisb/vsat2026/61742.ts
-#EXTINF:-1 alishot-ch-order="1781907654309",TOD3_HD EVENT
-http://luna4k.eu:80/live/useryanisb/vsat2026/61740.ts
-#EXTINF:-1 alishot-ch-order="1781907654309",TOD4_HD EVENT
-http://luna4k.eu:80/live/useryanisb/vsat2026/61738.ts
-#EXTINF:-1 alishot-ch-order="1781907654309",TOD5_HD EVENT
-http://luna4k.eu:80/live/useryanisb/vsat2026/61736.ts
-#EXTINF:-1 alishot-ch-order="1781907654309",TOD6_HD EVENT
-http://luna4k.eu:80/live/useryanisb/vsat2026/61734.ts
-#EXTINF:-1 alishot-ch-order="1781907654309",TOD7_HD EVENT
-http://luna4k.eu:80/live/useryanisb/vsat2026/61732.ts
-#EXTINF:-1 alishot-ch-order="1781907654309",TOD8_HD EVENT
-http://luna4k.eu:80/live/useryanisb/vsat2026/61730.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TOD-LOGO.png" alishot-ch-order="1781907654309",TOD9_HD EVENT
-http://luna4k.eu:80/live/useryanisb/vsat2026/61728.ts
-#EXTINF:-1 alishot-ch-order="1781907654310",Bein Sport Tod English 1
-http://luna4k.eu:80/live/useryanisb/vsat2026/138144.ts
-#EXTINF:-1 alishot-ch-order="1781907654310",Bein Sport Tod English 2
-http://luna4k.eu:80/live/useryanisb/vsat2026/138143.ts
-#EXTINF:-1 alishot-ch-order="1781907654310",Bein Sport Tod Extra 1
-http://luna4k.eu:80/live/useryanisb/vsat2026/138142.ts
-#EXTINF:-1 alishot-ch-order="1781907654310",Bein Sport Tod Extra 2
-http://luna4k.eu:80/live/useryanisb/vsat2026/138141.ts
-#EXTINF:-1 alishot-ch-order="1781907654310",Bein Sport Tod Extra 3
-http://luna4k.eu:80/live/useryanisb/vsat2026/138140.ts
-
