@@ -1,88 +1,32 @@
 #EXTM3U
 
-#EXTGRP:BEIN MAX tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt0dQjcKzKfs9HnSoDiXwSF2m5HENnBv_mstIwWcklYQ&s=10" alishot-cat-id="u1qefmd2u" alishot-cat-order="0"
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt0dQjcKzKfs9HnSoDiXwSF2m5HENnBv_mstIwWcklYQ&s=10" alishot-ch-order="1781613531647",MAX1
-http://185.160.192.14/live/123647009672/t7Yd9lxjr3/255224.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt0dQjcKzKfs9HnSoDiXwSF2m5HENnBv_mstIwWcklYQ&s=10" alishot-ch-order="1781613558938",MAX2
-https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/2q-RmKdqTT3qCt95K5I376oFz6-1Q9RAT6Wsr299oTxsC6EQJm2kVJlFTzLQsCpbelIrnEvJcr95aP17xmBjHQ/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt0dQjcKzKfs9HnSoDiXwSF2m5HENnBv_mstIwWcklYQ&s=10" alishot-ch-order="1781638008235",MAX3
-https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/NwhlonvK2Z5geeyfmo6FaUhJu2aQobwruLtRhqpfLrOM1JUB_eCvrijQ-GVfA7SC_b_01QwMrRjTkrksJLScJA/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live&_HLS_skip=YES
-
-#EXTGRP:الوان tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRTfZMpJav4IWSpnVbNZShwJHE5KWh8Itr9IfNTtc3xA&s=10" alishot-cat-id="24l0ssqjz" alishot-cat-order="10"
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRTfZMpJav4IWSpnVbNZShwJHE5KWh8Itr9IfNTtc3xA&s=10" alishot-ch-order="1781620644060",الوان 1
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661.ts
-
-#EXTGRP:|AR| ✪ TOD WORLD CUP 2026 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-cat-id="i0tujxj4u" alishot-cat-order="20"
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-ch-order="1781904771264",MENA | No Event
-http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1952697.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-ch-order="1781904771264",MENA | No Event
-http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1952698.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-ch-order="1781904771264",MENA | No Event
-http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1952703.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-ch-order="1781904771264",MENA | No Event
-http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1952702.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-ch-order="1781904771264",MENA | No Event
-http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1952705.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-ch-order="1781904771264",MENA | No Event
-http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1952704.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-ch-order="1781904771264",MENA | No Event
-http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1952693.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-ch-order="1781904771264",MENA | No Event
-http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1952694.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-ch-order="1781904771264",MENA | No Event
-http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1952696.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-ch-order="1781904771264",MENA | No Event
-http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1952699.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-ch-order="1781904771264",MENA | No Event
-http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1952700.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-ch-order="1781904771264",MENA | No Event
-http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1952701.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-ch-order="1781904771264",Live | United States vs Australia - ENGLISH | FIFA World Cup | MENA
-http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1952706.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-ch-order="1781904771264",Live | United States vs Australia - 4K HDR | FIFA World Cup | MENA
-http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1952707.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-ch-order="1781904771264",Live | United States vs Australia - FRENCH | FIFA World Cup | MENA
-http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1952708.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-ch-order="1781904771264",Live | United States vs Australia - 2 | FIFA World Cup | MENA
-http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1952709.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-ch-order="1781904771264",Live | United States vs Australia | FIFA World Cup | MENA
-http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1952710.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-ch-order="1781904771264",Next | 2026-06-19 | 22:10 (GMT) | Scotland vs Morocco - 2 | FIFA World Cup | MENA
-http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1952711.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-ch-order="1781904771264",Next | 2026-06-19 | 22:10 (GMT) | Scotland vs Morocco | FIFA World Cup | MENA
-http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1952712.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-ch-order="1781904771264",MENA | No Event
-http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1952695.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-ch-order="1781904771264",Next | 2026-06-19 | 22:10 (GMT) | Scotland vs Morocco - FRENCH | FIFA World Cup | MENA
-http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1954155.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-ch-order="1781904771264",Next | 2026-06-19 | 22:10 (GMT) | Scotland vs Morocco - 4K HDR | FIFA World Cup | MENA
-http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1954156.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-ch-order="1781904771264",Next | 2026-06-19 | 22:10 (GMT) | Scotland vs Morocco - ENGLISH | FIFA World Cup | MENA
-http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1954157.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-ch-order="1781904771264",MENA | No Event
-http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1954158.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-ch-order="1781904771264",MENA | No Event
-http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1954159.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-ch-order="1781904771264",MENA | No Event
-http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1954160.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-ch-order="1781904771264",MENA | No Event
-http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1954161.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-ch-order="1781904771264",MENA | No Event
-http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1954162.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-ch-order="1781904771264",MENA | No Event
-http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1954163.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-ch-order="1781904771264",MENA | No Event
-http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1954164.m3u8
-
-#EXTGRP:POST SPORT tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyGbkXvECTq5v6aAJ6IZtEoHvSC512da5_9o99gLbViA&s=10" alishot-cat-id="3jo10eq6w" alishot-cat-order="30"
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyGbkXvECTq5v6aAJ6IZtEoHvSC512da5_9o99gLbViA&s=10" alishot-ch-order="1781613796011",P 1
-http://palestine.vibertv.cyou/post1/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyGbkXvECTq5v6aAJ6IZtEoHvSC512da5_9o99gLbViA&s=10" alishot-ch-order="1781613807637",P2
-http://palestine.vibertv.cyou/post2/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyGbkXvECTq5v6aAJ6IZtEoHvSC512da5_9o99gLbViA&s=10" alishot-ch-order="1781613919301",P3
-http://palestine.vibertv.cyou/post3/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyGbkXvECTq5v6aAJ6IZtEoHvSC512da5_9o99gLbViA&s=10" alishot-ch-order="1781613938667",P4
-http://palestine.vibertv.cyou/post4/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyGbkXvECTq5v6aAJ6IZtEoHvSC512da5_9o99gLbViA&s=10" alishot-ch-order="1781613952865",P5
-http://palestine.vibertv.cyou/post5/index.m3u8
+#EXTGRP:كأس العالم | beIN MAX tvg-logo="http://tayaara.store:80/images/marvel/1779451491106.jpg" alishot-cat-id="lw48vma22" alishot-cat-order="10"
+#EXTINF:-1 tvg-logo="http://tayaara.store:80/images/marvel/1779451491106.jpg" alishot-ch-order="1781908488594",beIN MAX 1 LOW
+http://marveltv.info:80/live/57852764/1585688/528732.ts
+#EXTINF:-1 tvg-logo="https://tayaara.store/images/marvel/1779452987164.jpg" alishot-ch-order="1781908488594",beIN MAX 1 SD
+http://marveltv.info:80/live/57852764/1585688/528738.ts
+#EXTINF:-1 tvg-logo="https://tayaara.store/images/marvel/1779452987164.jpg" alishot-ch-order="1781908488594",beIN MAX 1 HD
+http://marveltv.info:80/live/57852764/1585688/528744.ts
+#EXTINF:-1 tvg-logo="https://tayaara.store/images/marvel/1779452987164.jpg" alishot-ch-order="1781908488595",beIN MAX 1 FHD
+http://marveltv.info:80/live/57852764/1585688/528751.ts
+#EXTINF:-1 tvg-logo="https://tayaara.store/images/marvel/1779452987164.jpg" alishot-ch-order="1781908488595",beIN MAX 1 4K H265
+http://marveltv.info:80/live/57852764/1585688/530867.ts
+#EXTINF:-1 tvg-logo="https://tayaara.store/images/marvel/1779452987164.jpg" alishot-ch-order="1781908488595",beIN MAX 2 LOW
+http://marveltv.info:80/live/57852764/1585688/528735.ts
+#EXTINF:-1 tvg-logo="https://tayaara.store/images/marvel/1779452987164.jpg" alishot-ch-order="1781908488595",beIN MAX 2 SD
+http://marveltv.info:80/live/57852764/1585688/528741.ts
+#EXTINF:-1 tvg-logo="https://tayaara.store/images/marvel/1779452987164.jpg" alishot-ch-order="1781908488595",beIN MAX 2 HD
+http://marveltv.info:80/live/57852764/1585688/528747.ts
+#EXTINF:-1 tvg-logo="https://tayaara.store/images/marvel/1779452987164.jpg" alishot-ch-order="1781908488595",beIN MAX 2 FHD
+http://marveltv.info:80/live/57852764/1585688/528754.ts
+#EXTINF:-1 tvg-logo="https://tayaara.store/images/marvel/1779452987164.jpg" alishot-ch-order="1781908488595",beIN MAX 2 4K H265
+http://marveltv.info:80/live/57852764/1585688/530870.ts
+#EXTINF:-1 tvg-logo="https://tayaara.store/images/marvel/1779452987164.jpg" alishot-ch-order="1781908488595",beIN MAX 3 HD
+http://marveltv.info:80/live/57852764/1585688/532280.ts
+#EXTINF:-1 tvg-logo="https://tayaara.store/images/marvel/1779452987164.jpg" alishot-ch-order="1781908488595",beIN MAX 4 HD
+http://marveltv.info:80/live/57852764/1585688/532281.ts
+#EXTINF:-1 tvg-logo="https://tayaara.store/images/marvel/1779452987164.jpg" alishot-ch-order="1781908488595",beIN MAX 5 HD
+http://marveltv.info:80/live/57852764/1585688/532282.ts
+#EXTINF:-1 tvg-logo="https://tayaara.store/images/marvel/1779452987164.jpg" alishot-ch-order="1781908488595",beIN MAX 6 HD
+http://marveltv.info:80/live/57852764/1585688/532283.ts
 
