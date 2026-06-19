@@ -10,7 +10,7 @@ https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/NwhlonvK2Z5geeyfm
 
 #EXTGRP:الوان tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRTfZMpJav4IWSpnVbNZShwJHE5KWh8Itr9IfNTtc3xA&s=10" alishot-cat-id="24l0ssqjz" alishot-cat-order="10"
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRTfZMpJav4IWSpnVbNZShwJHE5KWh8Itr9IfNTtc3xA&s=10" alishot-ch-order="1781620644060",الوان 1
-https://stream.kurdtv.live/alwan-sport/index.m3u8
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661.ts
 
 #EXTGRP:|AR| ✪ TOD WORLD CUP 2026 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-cat-id="i0tujxj4u" alishot-cat-order="20"
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J9JKIxK.png" alishot-ch-order="1781904771264",MENA | No Event
