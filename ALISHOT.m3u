@@ -1,8 +1,6 @@
 #EXTM3U
 
 #EXTGRP:BeIN MAX tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5E7RERsDT5N2qebD9_XqZuDNIXm5dF8ztikYobmnnww&s=10" alishot-cat-id="kjthbxgq8" alishot-cat-order="10"
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5E7RERsDT5N2qebD9_XqZuDNIXm5dF8ztikYobmnnww&s=10" alishot-ch-order="1781980402645",MAX1 4K
-http://185.191.126.127:8080/live//omar777&&&/01103978590/460861.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5E7RERsDT5N2qebD9_XqZuDNIXm5dF8ztikYobmnnww&s=10" alishot-ch-order="1781983605313",MAX1 HD
 http://185.191.126.127:8080/live//omar777&&/01103978590/460862.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5E7RERsDT5N2qebD9_XqZuDNIXm5dF8ztikYobmnnww&s=10" alishot-ch-order="1781983623866",MAX1 SD
