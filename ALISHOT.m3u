@@ -19,4 +19,6 @@ http://185.191.126.127:8080/live//omar777&&/01103978590/460871.ts
 #EXTGRP:الوان tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe0DT49qB-VmFJ5kUgQlEXRdY6FGRWyznc9_tmwUwApQ&s=10" alishot-cat-id="uv979326g" alishot-cat-order="20"
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5E7RERsDT5N2qebD9_XqZuDNIXm5dF8ztikYobmnnww&s=10" alishot-ch-order="1781987174615",1
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5E7RERsDT5N2qebD9_XqZuDNIXm5dF8ztikYobmnnww&s=10" alishot-ch-order="1781987198293",2
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181662.ts
 
