@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTGRP:البث الخاص tvg-logo="https://j.top4top.io/p_3822xwqd30.png" alishot-cat-id="zprushbru" alishot-cat-order="0"
-#EXTINF:-1 alishot-ch-order="1781915002040",2
-http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1356793.m3u8
-#EXTINF:-1 tvg-logo="https://i.top4top.io/p_3822wiplt1.png" alishot-ch-order="1781915570399",البث الخاص سيرفر 1
-https://stm.linkip.org/live/1957_2323.ts
-
 #EXTGRP:TEST tvg-logo="https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/2q-RmKdqTT3qCt95K5I376oFz6-1Q9RAT6Wsr299oTxsC6EQJm2kVJlFTzLQsCpbelIrnEvJcr95aP17xmBjHQ/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live" alishot-cat-id="euju62zy2" alishot-cat-order="10"
 #EXTINF:-1 alishot-ch-order="1781914699524",.
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/2q-RmKdqTT3qCt95K5I376oFz6-1Q9RAT6Wsr299oTxsC6EQJm2kVJlFTzLQsCpbelIrnEvJcr95aP17xmBjHQ/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
