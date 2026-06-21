@@ -7,8 +7,6 @@ https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1.m3u8
 https://stream.liveostora.com/sportinaapp1/index.m3u8
 #EXTINF:-1 alishot-ch-order="1781995037988",MAX1 HD
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/xFUmwtGWyrcNbPk377VWNzMs4oypKnEfxzVW-z0PlRSpNpn3AI7PdZUabsPvxCrp__Gajd_ebskq8TD5cfXaeA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_playlist.m3u8?type=live
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5E7RERsDT5N2qebD9_XqZuDNIXm5dF8ztikYobmnnww&s=10" alishot-ch-order="1781995148788",MAX2 HD
-https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5E7RERsDT5N2qebD9_XqZuDNIXm5dF8ztikYobmnnww&s=10" alishot-ch-order="1781995220947",MAX2 HD
 https://stream.liveostora.com/sportinaapp2/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5E7RERsDT5N2qebD9_XqZuDNIXm5dF8ztikYobmnnww&s=10" alishot-ch-order="1782029320083",MAX3 HD
