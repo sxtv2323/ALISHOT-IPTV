@@ -105,4 +105,6 @@ https://edge22.776740.ir.cdn.ir/hls2/rasf1.m3u8
 https://s3.us-east-1.amazonaws.com/cdnc102/hls/0/stream.m3u8
 #EXTINF:-1 alishot-ch-order="1782057147183",3
 https://fun.pradly.site/woord2.m3u8
+#EXTINF:-1 alishot-ch-order="1782057167618",5
+https://customer-8sg4swpa990hpn50.cloudflarestream.com/531990d210998831da182966f3f10964/manifest/video.m3u8?parentOrigin=https%3A%2F%2F26.streemach.site
 
