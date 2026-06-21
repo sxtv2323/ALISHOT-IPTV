@@ -101,4 +101,6 @@ http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1954164.m3u8
 #EXTGRP:البث الخاص alishot-cat-id="noc1ix6wb" alishot-cat-order="1782056844596" alishot-trending="false"
 #EXTINF:-1 alishot-ch-order="1782057074255",السعودية
 https://edge22.776740.ir.cdn.ir/hls2/rasf1.m3u8
+#EXTINF:-1 alishot-ch-order="1782057111125",2
+https://s3.us-east-1.amazonaws.com/cdnc102/hls/0/stream.m3u8
 
