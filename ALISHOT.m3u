@@ -103,6 +103,4 @@ https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/G7iRP3-TNdSmqwAGv
 https://1.bb1.dpdns.org/hls/1/stream.m3u8
 #EXTINF:-1 alishot-ch-order="1782157706405",5
 https://ed.omener.xyz:443/qoozn2_720/index.m3u8
-#EXTINF:-1 alishot-ch-order="1782157719476",6
-https://karimo23.sbs/hls/ch3.m3u8?v=stable
 
