@@ -97,4 +97,6 @@ http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1954163.m3u8
 http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1954164.m3u8
 
 #EXTGRP:البث الخاص alishot-cat-id="noc1ix6wb" alishot-cat-order="1782056844596"
+#EXTINF:-1 alishot-ch-order="1782146737548",1
+https://s3.us-east-2.amazonaws.com/cdnh121/live/stream/index.m3u8
 
