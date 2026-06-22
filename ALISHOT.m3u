@@ -103,8 +103,6 @@ https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/G7iRP3-TNdSmqwAGv
 https://1.bb1.dpdns.org/hls/1/stream.m3u8
 #EXTINF:-1 alishot-ch-order="1782157706405",5
 https://ed.omener.xyz:443/qoozn2_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyGbkXvECTq5v6aAJ6IZtEoHvSC512da5_9o99gLbViA&s=10" alishot-ch-order="1782160988286",العراق 4K 1
-https://oottoo.online/max2--g/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyGbkXvECTq5v6aAJ6IZtEoHvSC512da5_9o99gLbViA&s=10" alishot-ch-order="1782160988286",العراق 4K 2
 https://karimo23.sbs/hls/ch3.m3u8?v=stable
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyGbkXvECTq5v6aAJ6IZtEoHvSC512da5_9o99gLbViA&s=10" alishot-ch-order="1782160988286",العراق 4K 3
