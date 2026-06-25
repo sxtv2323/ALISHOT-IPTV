@@ -9,6 +9,8 @@ https://stream.camcloud.stream/stream/ee077fee33a0/playlist.m3u8
 https://stm.linkip.org/live/1965_.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5E7RERsDT5N2qebD9_XqZuDNIXm5dF8ztikYobmnnww&s=10" alishot-ch-order="1782157043773",MAX4 HD
 https://stm.linkip.org/live/1966_.m3u8
+#EXTINF:-1 alishot-ch-order="1782407944002",MAX1 HD
+https://stm.linkip.org/live/1963_.m3u8
 
 #EXTGRP:الوان tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe0DT49qB-VmFJ5kUgQlEXRdY6FGRWyznc9_tmwUwApQ&s=10" alishot-cat-id="uv979326g" alishot-cat-order="20"
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe0DT49qB-VmFJ5kUgQlEXRdY6FGRWyznc9_tmwUwApQ&s=10" alishot-ch-order="1781987174615",1
