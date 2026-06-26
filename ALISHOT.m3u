@@ -14,7 +14,7 @@ https://stm.linkip.org/live/1964_.m3u8
 #EXTINF:-1 alishot-ch-order="1782408063000",MAX2 HD
 https://stm.linkip.org/live/1963_.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5E7RERsDT5N2qebD9_XqZuDNIXm5dF8ztikYobmnnww&s=10" alishot-ch-order="1782433373038",MAX1 4K
-https://stream.camcloud.stream/stream/d057920dccca/playlist.m3u8
+https://stream.camcloud.stream/stream/d057920dccca/segment_11414.js
 
 #EXTGRP:الوان tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe0DT49qB-VmFJ5kUgQlEXRdY6FGRWyznc9_tmwUwApQ&s=10" alishot-cat-id="uv979326g" alishot-cat-order="20"
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe0DT49qB-VmFJ5kUgQlEXRdY6FGRWyznc9_tmwUwApQ&s=10" alishot-ch-order="1781987174615",1
