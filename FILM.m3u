@@ -1,7 +1,7 @@
 #EXTM3U
-#CONFIG: BASE='http://hydra.st'
-#CONFIG: U='ammar33'
-#CONFIG: P='670990'
+#CONFIG: BASE='http://marveliptv.life:80'
+#CONFIG: U='Hussain036'
+#CONFIG: P='346097533572'
 
 #EXTINF:-1,سيرفر VOD المركزي ALISHOT
-http://hydra.st/player_api.php?username=ammar33&password=670990
+http://hydra.st/player_api.php?username=Hussain036&password=346097533572
